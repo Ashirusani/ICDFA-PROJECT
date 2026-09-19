@@ -1,0 +1,2 @@
+# ICDFA-PROJECT
+AZURE lab
